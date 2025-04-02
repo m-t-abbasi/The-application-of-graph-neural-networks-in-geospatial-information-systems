@@ -1,5 +1,5 @@
-# Data sets used in the included papers for this systematic review 
-In this systematic review, we present a comprehensive list of publicly available datasets that have been referenced in the studies included. This collection highlights the primary data sources used in various papers and serves as a valuable resource for researchers seeking comparable datasets in related fields.
+# Data sets used in the included papers for this review 
+In this review, we present a comprehensive list of publicly available datasets that have been referenced in the studies included. This collection highlights the primary data sources used in various papers and serves as a valuable resource for researchers seeking comparable datasets in related fields.
 
 <ul>
     <li><a href="#Traffic sensor data">Traffic sensor data</a></li>
@@ -181,6 +181,14 @@ This dataset contains indoor and outdoor air quality data recorded by GAMS. The 
 This dataset contains crime reports from the City of Chicago. The data includes information on crime types, locations, dates, and other attributes. It covers various crimes such as burglary, assault, theft, and more, recorded from 2001 to the present. The data is updated regularly and is available for public use.
 
 - [Chicago Crime Data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data)
+
+---
+
+🗄️ NYC Crime Dataset
+
+This dataset contains information on hate crimes recorded by the New York Police Department (NYPD). It includes details such as the type of crime, date of occurrence, geographic location, crime classification based on discrimination type (race, religion, sexual orientation, etc.), and investigation status. This dataset can be used to analyze hate crime patterns, identify trends, and predict high-risk areas.
+
+- [NYC Crime Data](https://data.cityofnewyork.us/Public-Safety/NYPD-Hate-Crimes/bqiq-cu78/about_data)
 
 
 
